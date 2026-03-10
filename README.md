@@ -1,4 +1,4 @@
-Análisis de Eficiencia Logística y Predicción de Retrasos 🚚
+Análisis de Eficiencia Logística y Predicción de Retrasos
 Descripción del Proyecto
 Este proyecto aplica técnicas de Data Science para identificar y predecir riesgos de retraso en una cadena de suministro global. El objetivo principal es transformar una gestión logística reactiva en una proactiva mediante el uso de aprendizaje automático.
 
