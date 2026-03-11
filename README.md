@@ -9,7 +9,7 @@ Metodología Aplicada
 Para este análisis se siguieron los pasos metodológicos requeridos en el curso:
 
 
-Selección de Datos: Se utilizó un dataset con 180,519 registros y 53 variables.
+Selección de Datos: Se utilizó un dataset con 180,519 registros y 53 variables (https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?select=DataCoSupplyChainDataset.csv)
 
 Limpieza y Preprocesamiento (EDA):
 Tratamiento de valores nulos e imputación de códigos postales.
