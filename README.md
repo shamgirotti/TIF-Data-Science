@@ -18,10 +18,7 @@ Eliminación de variables irrelevantes o sensibles para optimizar el rendimiento
 
 Modelado: Implementación de un algoritmo de Random Forest Classifier.
 ### Evaluación del Modelo
-El modelo alcanzó una precisión (Accuracy) de **0.69**. A continuación, se presenta la Matriz de Confusión que detalla el desempeño del algoritmo:
-
-![Matriz de Confusión](matriz_confusion.png)
-
+El modelo alcanzó una precisión (Accuracy) de **0.69**.
 
 
 Tecnologías Utilizadas
