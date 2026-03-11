@@ -26,8 +26,10 @@ Lenguaje: Python.
 Librerías: Pandas, Scikit-learn, Matplotlib y Seaborn.
 Entorno: Google Colab.
 
-Conclusiones y Propuestas Administrativas
+Conclusiones y Propuestas Administrativas:
+
 Basado en los hallazgos, se proponen las siguientes acciones para la administración de la empresa:
+
 Alertas Preventivas: Priorizar pedidos detectados con alto riesgo de retraso.
 Sinceramiento de SLA: Ajustar promesas de entrega en regiones críticas según los datos reales.
 Optimización de Costos: Reducir gastos por reclamos y devoluciones.
